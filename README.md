@@ -62,7 +62,7 @@ src/
 1. Clone o repositório:
 ```bash
 git clone https://github.com/WevertonLucena/task-manager
-cd TaskApp
+cd task-manager
 ```
 
 2. Instale as dependências:
