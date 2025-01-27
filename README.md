@@ -72,26 +72,15 @@ npm install
 yarn install
 ```
 
-3. Inicie o Metro Bundler:
-```bash
-npm start
-# ou
-yarn start
-```
-
-4. Execute o aplicativo (em uma nova janela de linha de comando):
+3. Execute o aplicativo (em uma nova janela de linha de comando):
 
 Para Android:
 ```bash
-npm run android
-# ou
-yarn android
+npx react-native run-android
 ```
 
 Para iOS:
 ```bash
 cd ios && pod install && cd ..
-npm run ios
-# ou
-yarn ios
+npx react-native run-ios
 ```
