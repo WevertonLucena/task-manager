@@ -79,7 +79,7 @@ npm start
 yarn start
 ```
 
-4. Execute o aplicativo:
+4. Execute o aplicativo (em uma nova janela de linha de comando):
 
 Para Android:
 ```bash
